@@ -1,0 +1,10 @@
+.destination-img {
+  height: 25vh;
+  width: 25vw;
+}
+
+.destination-name {
+  color: #000000;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
